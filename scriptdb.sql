@@ -1,4 +1,4 @@
-drop database empresa;
+
 create database empresa;
 
 use empresa;
