@@ -12,5 +12,6 @@ Clonar el repositorio en tu htdocs
   git clone https://github.com/BrandonToapanta/api_worker.git
 ```
 
+- Importar el archivo 'scriptdb.sql' en tu base de datos MySQL.
 
 
